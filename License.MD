@@ -1,3 +1,11 @@
+PeacefulSearch License
+©TheDoggyBrad
+
+The "PeacefulSearch" software is provided to everyone for free of charge.
+The Graphical User Interface of this software is open-source, it means that anyone can copy, (re)distribute, fork, recreate, reuse the GUI.
+But, the Search Engine is owned and operated by Google, therefore the terms for the Google Programmable Search applies.
+
+
 Programmable Search Engine Terms of Service
 Version as of December 29, 2022
 
