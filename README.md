@@ -27,4 +27,16 @@ This search engine is composed by 2 components:
 •Graphical User Interface
 <br>
 <br>
-The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme. 
+The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme.
+
+## How to use?
+1.) Go to the search engine thru the "Official Links".
+<br>
+2.) Click the search bar and type whatever you want to search.
+<br>
+3.) Click the search button and wait for the results to appear.
+<br>
+4.) Browse the search results. 
+
+## Privacy and Safety
+This search engine is 100% safe. Google might collect some non-personal information about you like your search history and IP Address.
