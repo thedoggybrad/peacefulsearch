@@ -1,4 +1,4 @@
-# peacefulsearch
+# PeacefulSearch
 Search peacefully and easily with PeacefulSearch. Powered by Google.
 
 ## List of Features
