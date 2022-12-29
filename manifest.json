@@ -1,0 +1,33 @@
+{
+  "name": "PeacefulSearch",
+  "short_name": "PeacefulSearch",
+  "description": "Search peacefully and easily with PeacefulSearch.",
+  "icons": [
+    {
+      "src": "https://thedoggybrad.github.io/peacefulsearch/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://thedoggybrad.github.io/peacefulsearch/index.html",
+  "display": "standalone",
+  "background_color": "#90EE90",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/screenshot/1.png",
+      "type": "image/png",
+      "sizes": "586x1041"
+     },
+     {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/screenshot/2.png",
+      "type": "image/png",
+      "sizes": "586x1041"
+     },
+     {
+      "src": "https://thedoggybrad.github.io/2048ontheweb/screenshot/3.png",
+      "type": "image/png",
+      "sizes": "586x1041"
+     }
+  ]
+}
