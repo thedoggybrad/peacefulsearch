@@ -2,5 +2,5 @@
 Search peacefully and easily with PeacefulSearch. Powered by Google.
 
 ## Planned Features
-[]Dark Mode
+[✓]Dark Mode
 []Improved UI Design
