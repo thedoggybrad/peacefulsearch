@@ -28,8 +28,3 @@ This search engine is composed by 2 components:
 <br>
 <br>
 The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme. 
-
-## How about my privacy and safety?
-Well, on the part of TheDoggyBrad we assure that this search engine is safe to use.
-<br>
-For your privacy, well just read more from Google here: https://support.google.com/programmable-search/answer/1714300?hl=en
