@@ -13,3 +13,8 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 •Search across all regions
 <br>
 •A lot of search results (Powered by Google)
+
+## Official Access Links
+https://thedoggybrad.github.io/peacefulsearch/
+<br>
+https://cutt.ly/peacefulsearch
