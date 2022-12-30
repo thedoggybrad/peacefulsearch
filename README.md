@@ -30,7 +30,7 @@ This search engine is composed by 2 components:
 The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme.
 
 ## How to use?
-1.) Go to the search engine thru the "Official Links".
+1.) Go to the search engine thru the "Official Links" and select the "Web" or "Image" link.
 <br>
 2.) Click the search bar and type whatever you want to search.
 <br>
