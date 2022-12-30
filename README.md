@@ -15,6 +15,8 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 •Search across all regions
 <br>
 •A lot of search results (Powered by Google)
+<br>
+•Opens clicked search results into a new tab (Like the default of MS Bing)
 
 ## Official Access Links
 https://thedoggybrad.github.io/peacefulsearch/
