@@ -27,7 +27,7 @@ This search engine is composed by 2 components:
 •Graphical User Interface
 <br>
 <br>
-The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme.
+The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While, the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme.
 
 ## How to use?
 1.) Go to the search engine thru the "Official Links".
