@@ -12,6 +12,7 @@
   "start_url": "https://thedoggybrad.github.io/peacefulsearch/index.html",
   "display": "standalone",
   "background_color": "#90EE90",
+  "theme_color": "#90EE90",
   "orientation": "portrait",
   "screenshots": [
     {
