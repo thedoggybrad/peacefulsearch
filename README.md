@@ -41,6 +41,9 @@ The Search Engine is powered by Google's Programmable Search Engine running HTML
 ## Privacy and Safety
 This search engine is 100% safe. However, we are not liable for the safety of the links in the search results. Google might collect some non-personal information about you like your search history and IP Address.
 
+## Advice for your own Safety
+Always consult and follow the advice of your security software while using this search engine, as the safety of the search results are not guaranteed.
+
 ## Instructions for the PWA app installation (Works even you are offline)
 1.) Mobile Browsers
 <br>
