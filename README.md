@@ -1,4 +1,5 @@
 <img src="favicon.png" width="64" height="64" />
+
 # PeacefulSearch
 Search peacefully and easily with PeacefulSearch. Powered by Google.
 
