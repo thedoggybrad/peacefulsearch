@@ -29,6 +29,7 @@ This search engine is composed by 2 components:
 <br>
 The Search Engine is powered by Google's Programmable Search Engine running HTML and JavaScript. While, the Graphical User Interface was running under HTML and CSS, that is powered by Jekyll's Cayman Theme.
 <br>
+<br>
 This means that everything you type and search is sent to Google. The search results are also from Google.
 
 ## How to use?
