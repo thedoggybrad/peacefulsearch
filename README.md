@@ -8,7 +8,7 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 <br>
 •Image Results
 <br>
-•The "Safe Results Only Mode" is forcedly enabled by default
+•The "No Adult Content Mode" is forcedly enabled by default
 <br>
 •Search across all regions
 <br>
