@@ -23,6 +23,11 @@
       "src": "2.jpg",
       "type": "image/jpg",
       "sizes": "1080x2400"
+     },
+     {
+      "src": "3.jpg",
+      "type": "image/jpg",
+      "sizes": "1080x2400"
      }
   ]
 }
