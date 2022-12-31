@@ -48,8 +48,8 @@ This means that everything you type and search is sent to Google. The search res
 4.) Browse the search results. You may also choose between "Web" and "Image" results.
 
 ## Screenshots
-<img src ="1.jpg">
 <img src ="2.jpg">
+<img src ="1.jpg">
 <img src ="3.jpg">
 
 ## Privacy and Safety
