@@ -1,5 +1,5 @@
 Programmable Search Engine Terms of Service
-Version as of December 29, 2022 
+as of December 29, 2022 
 
 For the latest and always update version, please visit: https://support.google.com/programmable-search/answer/1714300?hl=en&ref_topic=4513742
 
