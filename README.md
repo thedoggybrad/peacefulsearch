@@ -16,7 +16,7 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 <br>
 •A lot of search results (Powered by Google)
 <br>
-•Opens clicked search results into a new tab (Like the default of MS Bing)
+•Opens clicked search results into a new tab (Like the default of MS Bing on a PC)
 <br>
 •JavaScript of the Search Engine is native to the website itself (Not External)
 
