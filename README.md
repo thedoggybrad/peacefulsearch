@@ -17,6 +17,8 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 •A lot of search results (Powered by Google)
 <br>
 •Opens clicked search results into a new tab (Like the default of MS Bing)
+<br>
+•JavaScript of the Search Engine is native to the website itself (Not External)
 
 ## Official Access Links
 https://thedoggybrad.github.io/peacefulsearch/
