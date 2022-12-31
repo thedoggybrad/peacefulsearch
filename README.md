@@ -47,6 +47,11 @@ This means that everything you type and search is sent to Google. The search res
 <br>
 4.) Browse the search results. You may also choose between "Web" and "Image" results.
 
+## Screenshots
+<img src ="1.jpg">
+<img src ="2.jpg">
+<img src ="3.jpg">
+
 ## Privacy and Safety
 This search engine is 100% safe. However, we are not liable for the safety of the links in the search results. Google might collect some non-personal information about you like your search history and IP Address.
 
