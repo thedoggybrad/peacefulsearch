@@ -38,6 +38,9 @@ The Search Engine is powered by Google's Programmable Search Engine running HTML
 <br>
 This means that everything you type and search is sent to Google. The search results are also from Google.
 
+## Use of CDN
+Critical files (CSS, JS and Favicon/Logo) is now using jsDelivr's CDN. This is done to provide a better experience to the end users.
+
 ## How to use?
 1.) Go to the search engine thru the "Official Links".
 <br>
