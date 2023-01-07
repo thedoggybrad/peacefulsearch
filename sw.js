@@ -6,7 +6,7 @@ const resourceList = [
   '/',
   'https://thedoggybrad.github.io/peacefulsearch/index.html',
   'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/favicon.png',
-  'https://thedoggybrad.github.io/peacefulsearch/style.css',
+  'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/style.css',
   'https://fonts.googleapis.com/css?family=Open+Sans:400,700',
   'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/search.js'
 ];
