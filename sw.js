@@ -8,7 +8,7 @@ const resourceList = [
   'https://thedoggybrad.github.io/peacefulsearch/favicon.ico',
   'https://thedoggybrad.github.io/peacefulsearch/style.css',
   'https://fonts.googleapis.com/css?family=Open+Sans:400,700',
-  'https://thedoggybrad.github.io/peacefulsearch/search.js'
+  'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/search.js'
 ];
 
 self.addEventListener('install', event => {
