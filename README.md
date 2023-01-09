@@ -17,8 +17,7 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 •A lot of search results (Powered by Google)
 <br>
 •Opens clicked search results into a new tab (Like the default of MS Bing on a PC) but ads open in the same tab.
-<br>
-•JavaScript of the Search Engine is native to the website itself (Not External)
+
 
 ## Official Access Links
 https://thedoggybrad.github.io/peacefulsearch/
@@ -41,7 +40,7 @@ This means that everything you type and search is sent to Google. The search res
 ## Use of CDN
 Critical files (CSS and Favicon/Logo) is now using jsDelivr's CDN. This is done to provide a better experience to the end users.
 <br>
-But, the JavaScript used for searching is stored on Statically CDN, as jsDelivr causes problem to the Search Engine.
+The JavaScript files from Google, needs to be hosted on Google as Google changes the access token. So to prevent from creating an error to the software again, I decided to stop using a CDN for this.
 
 
 
@@ -69,7 +68,7 @@ Always consult and follow the advice of your security software while using this 
 ## How to use it on my own website?
 To use PeacefulSearch on your own website, you can simply input this code on your website:
 ```
-<script src="https://cdn.statically.io/gh/thedoggybrad/peacefulsearch/main/searcher.js">
+<script src="https://cse.google.com/cse.js?cx=f3cd3674f03c44b40">
 </script>
 <div class="gcse-search"></div>
 ```
