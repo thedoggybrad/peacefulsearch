@@ -62,12 +62,14 @@ This search engine is 100% safe. However, we are not liable for the safety of th
 Always consult and follow the advice of your security software while using this search engine, as the safety of the search results are not guaranteed.
 
 ## How to use it on my own website?
-To use it on your own website, you can simply input this code on your website:
+To use PeacefulSearch on your own website, you can simply input this code on your website:
 ```
 <script src="https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/search.js">
 </script>
 <div class="gcse-search"></div>
 ```
+This code simply adds the JavaScript used for this search engine and its HTML representative (Class).
+You can use it on whatever you want. Make sure to just follow the [Programmable Search Engine Terms of Service] (https://support.google.com/programmable-search/answer/1714300?hl=en&ref_topic=4513742).
 
 ## Instructions for the PWA app installation (Works even you are offline)
 1.) Mobile Browsers
