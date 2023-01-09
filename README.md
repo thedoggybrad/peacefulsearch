@@ -71,7 +71,7 @@ To use PeacefulSearch on your own website, you can simply input this code on you
 This code simply adds the JavaScript used for this search engine and its HTML representative (Class).
 You can use it on any websites and purpose. Make sure to just follow the [Programmable Search Engine Terms of Service](https://support.google.com/programmable-search/answer/1714300?hl=en&ref_topic=4513742).
 
-## Instructions for the PWA app installation (Works even you are offline)
+## Instructions for the PWA app installation (Working Offline but cannot search when you are offline)
 1.) Mobile Browsers
 <br>
 -To install the app, just click the 3 dots (or similar on other browsers) then click Install App. 
@@ -86,4 +86,4 @@ or
 -To install the app, click the 3 dots or similar then go to More Tools and click Create Shortcut. Make sure to tick the option "Open in new window" or similar.
 <br>
 <br>
-Note: To search thru the internet, you obviously need to be connected to the Internet. 
+Note: To search using this search engine, you obviously need to be connected to the Internet. 
