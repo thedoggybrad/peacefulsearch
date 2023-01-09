@@ -61,6 +61,14 @@ This search engine is 100% safe. However, we are not liable for the safety of th
 ## Advice for your own Safety
 Always consult and follow the advice of your security software while using this search engine, as the safety of the search results are not guaranteed.
 
+## How to use it on my own website?
+To use it on your own website, you can simply input this code on your website:
+```
+<script src="https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/search.js">
+</script>
+<div class="gcse-search"></div>
+```
+
 ## Instructions for the PWA app installation (Works even you are offline)
 1.) Mobile Browsers
 <br>
