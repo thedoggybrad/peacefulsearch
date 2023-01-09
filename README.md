@@ -69,7 +69,7 @@ To use PeacefulSearch on your own website, you can simply input this code on you
 <div class="gcse-search"></div>
 ```
 This code simply adds the JavaScript used for this search engine and its HTML representative (Class).
-You can use it on whatever you want. Make sure to just follow the [Programmable Search Engine Terms of Service] (https://support.google.com/programmable-search/answer/1714300?hl=en&ref_topic=4513742).
+You can use it on any websites and purpose. Make sure to just follow the [Programmable Search Engine Terms of Service] (https://support.google.com/programmable-search/answer/1714300?hl=en&ref_topic=4513742).
 
 ## Instructions for the PWA app installation (Works even you are offline)
 1.) Mobile Browsers
