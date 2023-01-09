@@ -64,7 +64,7 @@ Always consult and follow the advice of your security software while using this 
 ## How to use it on my own website?
 To use PeacefulSearch on your own website, you can simply input this code on your website:
 ```
-<script src="https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/search.js">
+<script src="https://cdn.statically.io/gh/thedoggybrad/peacefulsearch/main/searcher.js">
 </script>
 <div class="gcse-search"></div>
 ```
