@@ -8,7 +8,7 @@ const resourceList = [
   'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/favicon.png',
   'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/style.css',
   'https://fonts.googleapis.com/css?family=Open+Sans:400,700',
-  'https://cdn.jsdelivr.net/gh/thedoggybrad/peacefulsearch@main/search.js'
+  'https://cse.google.com/cse.js?cx=f3cd3674f03c44b40'
 ];
 
 self.addEventListener('install', event => {
