@@ -10,13 +10,13 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 <br>
 •Image Results
 <br>
-•The "No Adult Content Mode" is forcedly enabled by default
+•The "No Adult Content Mode" is strictly enabled by default
 <br>
 •Search across all regions
 <br>
-•A lot of search results (Powered by Google)
+•Accurate Search Results (Powered by Google)
 <br>
-•Opens clicked search results into a new tab (Like the default of MS Bing on a PC) but ads open in the same tab.
+•Opens clicked search results into a new tab (Like the default of MS Bing on a PC) but ads/sponsored content open in the same tab.
 
 
 ## Official Access Links
