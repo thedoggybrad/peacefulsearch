@@ -24,7 +24,7 @@ https://thedoggybrad.github.io/peacefulsearch/ (Github Pages)
 <br>
 https://cutt.ly/peacefulsearch (Cutt.ly)
 <br>
-https://peacefulsearch.pages.dev/ (Cloudflare)
+https://peacefulsearch.pages.dev/ (Cloudflare Pages)
 
 ## How this thing works?
 This search engine is composed by 2 components:
