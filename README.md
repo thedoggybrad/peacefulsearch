@@ -19,10 +19,8 @@ Search peacefully and easily with PeacefulSearch. Powered by Google.
 •Opens clicked search results into a new tab (Like the default of MS Bing on a PC) but ads/sponsored content open in the same tab.
 
 
-## Official Access Links
-https://thedoggybrad.github.io/peacefulsearch/
-<br>
-https://cutt.ly/peacefulsearch
+## Official Access Link
+https://peacefulsearch.pages.dev/
 
 ## How this thing works?
 This search engine is composed by 2 components:
